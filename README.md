@@ -73,9 +73,9 @@ This tool is intended for educational and ethical purposes only. Use it responsi
 After creating the above files, your project directory should look like this:
 
 ```
-netrecon-pro/
+NetRecon-Pro/
 │
-├── netrecon_pro.py       # Main Python script
+├── NetRecon-Pro.py       # Main Python script
 ├── README.md             # Project documentation
 ├── LICENSE               # License file
 ├── requirements.txt      # Dependencies file
